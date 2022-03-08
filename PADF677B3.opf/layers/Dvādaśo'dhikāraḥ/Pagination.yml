@@ -1,0 +1,204 @@
+id: 60b7caf4036f41e691ff70d6f698cf09
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  e29322b9a1d6404191f2786986a37844:
+    span:
+      start: 0
+      end: 293
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: null
+  83d4d5808d3248228fce315465025280:
+    span:
+      start: 295
+      end: 511
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: null
+  8e148128ab734f649db131e06fb000d9:
+    span:
+      start: 513
+      end: 721
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: null
+  eda85ea578d844d8954e5b6f8445830a:
+    span:
+      start: 723
+      end: 827
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: null
+  9c85affbe1774a3ca36924b1d42a611a:
+    span:
+      start: 829
+      end: 921
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: null
+  5368f563e5b94ec8a0ecfb1f5f67a205:
+    span:
+      start: 923
+      end: 1019
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: null
+  18fc1b67b8d141c280abad83ee0af722:
+    span:
+      start: 1021
+      end: 1120
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: null
+  78a8ac7a7c9e4d12b465b4a9b382d494:
+    span:
+      start: 1122
+      end: 1210
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: null
+  2c9c2aa840b64339ac5bba83072b84f9:
+    span:
+      start: 1212
+      end: 1305
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: null
+  3a8a83d2a48a44de8841d1e3ea06a76a:
+    span:
+      start: 1307
+      end: 1400
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: null
+  03f7fa8b157743ac865742ea1b6be9a7:
+    span:
+      start: 1402
+      end: 1493
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: null
+  7db7597d70b845e5897ccd833890c0d0:
+    span:
+      start: 1495
+      end: 1585
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: null
+  65010f830f2b46168d16033e5bf286ef:
+    span:
+      start: 1587
+      end: 1681
+    metadata: {}
+    page_info: null
+    imgnum: 13
+    reference: null
+  4f25a244902d483ca8cb9ed124c09ad4:
+    span:
+      start: 1683
+      end: 1779
+    metadata: {}
+    page_info: null
+    imgnum: 14
+    reference: null
+  e4b44066a6214e73a8d469f233fca184:
+    span:
+      start: 1781
+      end: 1902
+    metadata: {}
+    page_info: null
+    imgnum: 15
+    reference: null
+  f23e4305264c44519469e1e2107180c4:
+    span:
+      start: 1904
+      end: 1990
+    metadata: {}
+    page_info: null
+    imgnum: 16
+    reference: null
+  bf4a50e156024e8ba9d97c6f7c106408:
+    span:
+      start: 1992
+      end: 2079
+    metadata: {}
+    page_info: null
+    imgnum: 17
+    reference: null
+  6f7dae263ce940218766d801f6031e85:
+    span:
+      start: 2081
+      end: 2262
+    metadata: {}
+    page_info: null
+    imgnum: 18
+    reference: null
+  2f1ff54d9fc947cb9b01c69857763dd7:
+    span:
+      start: 2264
+      end: 2354
+    metadata: {}
+    page_info: null
+    imgnum: 19
+    reference: null
+  43fbbdb6b246441aa542697b56732f10:
+    span:
+      start: 2356
+      end: 2446
+    metadata: {}
+    page_info: null
+    imgnum: 20
+    reference: null
+  bcb19d7fe7bb4eeca8b71ac615a0f3ae:
+    span:
+      start: 2448
+      end: 2552
+    metadata: {}
+    page_info: null
+    imgnum: 21
+    reference: null
+  da5a4692dfeb474481fae914bc8a11f2:
+    span:
+      start: 2554
+      end: 2654
+    metadata: {}
+    page_info: null
+    imgnum: 22
+    reference: null
+  8dd3eb7808914d2bac71d9793216a4c8:
+    span:
+      start: 2656
+      end: 2762
+    metadata: {}
+    page_info: null
+    imgnum: 23
+    reference: null
+  ae0005fa72684eb494bd1609081f24f8:
+    span:
+      start: 2764
+      end: 2900
+    metadata: {}
+    page_info: null
+    imgnum: 24
+    reference: null
+  ef99fa9746234f2ca49014aa9a65378b:
+    span:
+      start: 2902
+      end: 2950
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
